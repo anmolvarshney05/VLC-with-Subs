@@ -1,5 +1,5 @@
 1. Open Command Prompt in the same directory as your Video.
 
-2. Type "pyton Main.py Your_File_Name"
+2. Type "python Main.py Your_File_Name"
 
 3. Enjoy!
