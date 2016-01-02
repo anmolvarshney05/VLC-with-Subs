@@ -1,0 +1,8 @@
+-> User should have Python 2.7 or later installed.
+
+-> User should have Windows installed ( any Version )( Tested on Windows 8.1 )
+
+-> User should have VLC Media Player installed ( any Version )
+
+-> VLC Media Player should be installed in the following Directory :
+	"C:\Program Files (x86)\VideoLAN\VLC"
