@@ -1,4 +1,4 @@
-VLC-with-Subs
+#VLC-with-Subs
 Downloads Subtitles for a Video File using its Hash and then launches VLC Media Player with the Subtitle Loaded.  
 
 For Requirements refer to requirements.txt
